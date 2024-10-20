@@ -38,4 +38,5 @@
 </div>
 
 <br/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibrahim1Hassan)](https://github.com/Ibrahim1Hassan/github-readme-stats)
 
